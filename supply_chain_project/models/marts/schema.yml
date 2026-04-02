@@ -1,0 +1,103 @@
+version: 2
+
+models:
+  - name: fact_orders
+    columns:
+
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+
+      - name: order_status
+        tests:
+          - accepted_values:
+              values: ['placed','shipped','delivered']
+
+      - name: product_id
+        tests:
+          - relationships:
+              to: ref('dim_products')
+              field: product_id
+
+  - name: fact_shipments
+    description: "Fact table containing shipment information"
+
+    columns:
+
+      - name: shipment_id
+        description: "Unique shipment identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: order_id
+        description: "Order associated with shipment"
+        tests:
+          - not_null
+
+      - name: shipment_date
+        description: "Date when shipment was sent"
+        tests:
+          - not_null
+
+      - name: delivery_status
+        description: "Shipment delivery status"
+        tests:
+          - accepted_values:
+              values: ['pending','shipped','delivered']
+
+  - name: fact_returns
+    description: "Fact table containing product return details"
+
+    columns:
+
+      - name: return_id
+        description: "Unique return identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: order_id
+        description: "Order associated with return"
+        tests:
+          - not_null
+
+      - name: return_date
+        description: "Date when product was returned"
+        tests:
+          - not_null
+
+      - name: reason
+        description: "Reason for product return"
+
+  - name: fact_inventory
+    description: "Fact table containing warehouse inventory data"
+
+    columns:
+
+      - name: inventory_id
+        description: "Unique inventory record identifier"
+        tests:
+          - unique
+          - not_null
+
+      - name: product_id
+        description: "Product stored in warehouse"
+        tests:
+          - not_null
+
+      - name: warehouse
+        description: "Warehouse location"
+        tests:
+          - not_null
+
+      - name: stock_qty
+        description: "Quantity of stock available"
+        tests:
+          - not_null
+
+      - name: updated_at
+        description: "Date when inventory was updated"
+        tests:
+          - not_null

@@ -1,0 +1,1001 @@
+shipment_id,order_id,shipment_date,carrier,delivery_status
+7001,5187,2023-04-28,BlueDart,Delayed
+7002,5929,2024-09-14,BlueDart,Delayed
+7003,5754,2024-02-21,Delhivery,Delayed
+7004,5491,2024-08-12,DHL,Delivered
+7005,5941,2024-04-20,Delhivery,In Transit
+7006,5562,2023-10-02,BlueDart,Delivered
+7007,5286,2024-07-20,BlueDart,Delivered
+7008,5741,2024-10-27,FedEx,Delivered
+7009,5999,2024-06-10,FedEx,Delivered
+7010,5437,2024-11-05,BlueDart,Delayed
+7011,5952,2024-06-11,FedEx,Delayed
+7012,5296,2024-04-17,FedEx,Delayed
+7013,5610,2023-04-23,DHL,Delivered
+7014,5516,2024-04-10,FedEx,Delivered
+7015,5779,2024-10-18,DHL,Delayed
+7016,5486,2024-03-30,FedEx,In Transit
+7017,5432,2023-12-13,BlueDart,Delayed
+7018,5527,2024-03-02,Delhivery,Delayed
+7019,5827,2023-02-01,Delhivery,In Transit
+7020,5969,2023-01-25,Delhivery,Delivered
+7021,5289,2023-02-15,BlueDart,In Transit
+7022,5555,2023-08-27,DHL,Delayed
+7023,5891,2024-06-23,BlueDart,Delivered
+7024,5647,2024-02-21,DHL,In Transit
+7025,5738,2023-11-29,DHL,Delayed
+7026,5696,2024-11-15,DHL,Delivered
+7027,5022,2023-12-19,FedEx,In Transit
+7028,5313,2023-01-01,Delhivery,In Transit
+7029,5577,2023-08-25,Delhivery,Delayed
+7030,5180,2024-07-06,BlueDart,Delivered
+7031,5334,2024-05-23,DHL,Delivered
+7032,5750,2023-02-09,BlueDart,In Transit
+7033,5281,2024-10-11,Delhivery,Delivered
+7034,5252,2023-11-03,Delhivery,Delayed
+7035,5430,2024-07-09,DHL,Delayed
+7036,5600,2024-02-06,Delhivery,Delayed
+7037,5431,2023-11-25,FedEx,Delivered
+7038,5921,2024-04-07,Delhivery,Delivered
+7039,5251,2023-12-14,BlueDart,Delayed
+7040,5640,2023-12-15,DHL,In Transit
+7041,5890,2023-10-02,Delhivery,Delivered
+7042,5695,2024-02-06,Delhivery,In Transit
+7043,5785,2024-01-26,Delhivery,Delivered
+7044,5355,2023-02-25,DHL,Delayed
+7045,5785,2024-04-28,Delhivery,In Transit
+7046,5974,2023-01-10,BlueDart,Delayed
+7047,5140,2023-05-08,FedEx,Delayed
+7048,5660,2024-07-19,BlueDart,Delivered
+7049,5618,2024-03-14,FedEx,In Transit
+7050,5216,2023-09-13,FedEx,In Transit
+7051,5079,2024-09-28,FedEx,Delivered
+7052,5977,2023-10-22,BlueDart,Delivered
+7053,5013,2024-08-07,DHL,Delayed
+7054,5557,2023-03-24,DHL,In Transit
+7055,5711,2023-06-24,DHL,Delivered
+7056,5204,2024-07-05,FedEx,Delivered
+7057,5124,2024-03-20,DHL,Delayed
+7058,5180,2023-10-16,FedEx,Delayed
+7059,5376,2023-07-01,BlueDart,Delayed
+7060,5974,2023-06-11,FedEx,Delivered
+7061,5745,2024-09-28,FedEx,Delivered
+7062,5047,2024-04-04,Delhivery,Delayed
+7063,5525,2023-04-12,DHL,Delivered
+7064,5067,2023-06-14,BlueDart,In Transit
+7065,5296,2023-12-20,Delhivery,Delayed
+7066,5369,2023-12-06,Delhivery,Delivered
+7067,5387,2023-05-02,DHL,In Transit
+7068,5695,2024-01-12,DHL,In Transit
+7069,5320,2023-02-25,DHL,In Transit
+7070,5483,2023-10-02,Delhivery,In Transit
+7071,5879,2024-07-22,BlueDart,Delayed
+7072,5550,2024-01-19,BlueDart,Delivered
+7073,5002,2024-03-25,DHL,Delayed
+7074,5819,2024-02-14,Delhivery,Delivered
+7075,5891,2023-06-13,BlueDart,Delivered
+7076,5158,2023-08-14,Delhivery,In Transit
+7077,5661,2023-04-01,FedEx,Delayed
+7078,5400,2024-02-24,DHL,In Transit
+7079,5397,2024-08-01,FedEx,Delayed
+7080,5144,2024-07-26,FedEx,Delayed
+7081,5151,2024-02-21,Delhivery,Delayed
+7082,5562,2023-02-17,Delhivery,In Transit
+7083,5077,2023-09-26,BlueDart,In Transit
+7084,5336,2023-03-24,Delhivery,In Transit
+7085,5447,2023-03-25,DHL,Delivered
+7086,5100,2023-06-14,Delhivery,In Transit
+7087,5171,2024-09-22,FedEx,In Transit
+7088,5660,2024-02-14,DHL,Delayed
+7089,5286,2024-02-14,Delhivery,Delivered
+7090,5164,2024-08-30,BlueDart,In Transit
+7091,5151,2023-07-21,Delhivery,Delayed
+7092,5063,2024-02-04,Delhivery,In Transit
+7093,5607,2023-02-08,BlueDart,Delayed
+7094,5984,2024-04-15,DHL,In Transit
+7095,5931,2023-06-23,BlueDart,Delayed
+7096,5709,2024-03-18,DHL,Delivered
+7097,5203,2024-11-22,FedEx,Delayed
+7098,5651,2023-11-21,FedEx,Delivered
+7099,5770,2024-04-19,DHL,Delayed
+7100,5866,2024-07-04,FedEx,Delayed
+7101,5265,2024-01-10,FedEx,Delivered
+7102,5980,2023-12-14,DHL,Delayed
+7103,5107,2024-04-07,FedEx,Delayed
+7104,5896,2023-10-03,BlueDart,Delayed
+7105,5964,2024-05-06,Delhivery,Delivered
+7106,5822,2024-10-03,BlueDart,Delayed
+7107,5185,2023-06-06,DHL,Delayed
+7108,5430,2023-05-19,DHL,In Transit
+7109,5041,2024-10-26,Delhivery,In Transit
+7110,5599,2024-02-06,DHL,Delayed
+7111,5122,2024-03-26,FedEx,In Transit
+7112,5997,2023-09-26,Delhivery,In Transit
+7113,5291,2024-09-16,FedEx,Delivered
+7114,5445,2024-09-30,FedEx,Delivered
+7115,5960,2023-01-22,BlueDart,Delivered
+7116,5365,2023-05-18,BlueDart,Delivered
+7117,5058,2024-08-30,FedEx,In Transit
+7118,5878,2024-09-20,FedEx,Delivered
+7119,5603,2023-10-22,BlueDart,Delivered
+7120,5950,2024-05-18,Delhivery,In Transit
+7121,5613,2024-02-23,BlueDart,Delivered
+7122,5920,2024-08-27,BlueDart,Delivered
+7123,5916,2024-11-29,BlueDart,Delivered
+7124,5298,2023-08-28,BlueDart,Delivered
+7125,5258,2024-09-10,Delhivery,In Transit
+7126,5748,2023-01-09,Delhivery,In Transit
+7127,5979,2024-04-14,FedEx,Delayed
+7128,5009,2023-01-12,Delhivery,Delivered
+7129,5492,2024-10-21,FedEx,Delayed
+7130,5843,2024-02-16,Delhivery,Delivered
+7131,5906,2024-06-19,DHL,Delayed
+7132,5829,2024-09-01,BlueDart,In Transit
+7133,5566,2023-05-18,BlueDart,In Transit
+7134,5572,2023-09-01,FedEx,In Transit
+7135,5903,2024-02-21,BlueDart,Delayed
+7136,5162,2023-05-20,FedEx,Delayed
+7137,5858,2023-07-23,Delhivery,In Transit
+7138,5757,2023-02-01,FedEx,In Transit
+7139,5064,2024-06-13,DHL,Delivered
+7140,5164,2024-04-28,BlueDart,Delayed
+7141,5448,2024-11-17,DHL,In Transit
+7142,5118,2023-10-02,FedEx,Delayed
+7143,5176,2023-06-11,Delhivery,Delayed
+7144,5631,2023-06-06,FedEx,In Transit
+7145,5565,2024-09-17,Delhivery,In Transit
+7146,5806,2023-10-18,FedEx,In Transit
+7147,5988,2023-09-28,DHL,In Transit
+7148,5098,2024-03-26,Delhivery,Delivered
+7149,5920,2023-03-09,BlueDart,Delivered
+7150,5438,2024-04-27,Delhivery,Delivered
+7151,5455,2024-11-12,DHL,In Transit
+7152,5619,2024-04-02,DHL,Delayed
+7153,5256,2024-03-28,BlueDart,Delivered
+7154,5029,2023-07-15,BlueDart,Delivered
+7155,5214,2024-05-11,FedEx,Delayed
+7156,5856,2024-06-21,BlueDart,In Transit
+7157,5239,2024-08-10,BlueDart,Delivered
+7158,5200,2024-08-27,FedEx,Delayed
+7159,5300,2024-02-20,DHL,Delayed
+7160,5645,2023-05-12,FedEx,Delayed
+7161,5164,2024-01-18,DHL,In Transit
+7162,5538,2023-07-05,FedEx,In Transit
+7163,5017,2024-06-26,Delhivery,In Transit
+7164,5158,2023-06-13,Delhivery,Delayed
+7165,5679,2023-03-19,DHL,Delayed
+7166,5282,2023-01-16,FedEx,Delayed
+7167,5162,2024-10-26,DHL,In Transit
+7168,5016,2023-02-02,BlueDart,Delayed
+7169,5418,2023-10-10,DHL,In Transit
+7170,5344,2024-05-14,DHL,Delivered
+7171,5203,2024-05-19,DHL,Delivered
+7172,5628,2023-01-25,BlueDart,Delayed
+7173,5220,2023-05-06,DHL,In Transit
+7174,5948,2023-10-07,FedEx,In Transit
+7175,5860,2023-04-12,DHL,Delivered
+7176,5319,2023-01-22,Delhivery,Delivered
+7177,5412,2023-06-17,Delhivery,In Transit
+7178,5669,2023-07-09,Delhivery,Delivered
+7179,5533,2024-11-08,DHL,Delivered
+7180,5813,2024-10-14,FedEx,Delivered
+7181,5278,2024-04-10,BlueDart,In Transit
+7182,5327,2023-06-19,Delhivery,Delayed
+7183,5764,2024-10-15,Delhivery,Delivered
+7184,5265,2023-02-06,BlueDart,In Transit
+7185,5378,2023-12-15,Delhivery,Delivered
+7186,5982,2023-05-20,DHL,In Transit
+7187,5960,2023-03-17,BlueDart,Delivered
+7188,5725,2023-09-10,Delhivery,In Transit
+7189,5838,2023-03-01,DHL,Delayed
+7190,5137,2023-12-16,FedEx,Delivered
+7191,5145,2024-09-30,FedEx,Delivered
+7192,5194,2024-11-11,BlueDart,Delivered
+7193,5039,2023-09-09,DHL,Delivered
+7194,5972,2023-08-30,BlueDart,Delivered
+7195,5957,2023-10-14,DHL,Delivered
+7196,5689,2023-05-25,BlueDart,Delivered
+7197,5065,2023-12-16,DHL,Delivered
+7198,5221,2023-06-14,Delhivery,Delivered
+7199,5078,2024-07-20,BlueDart,Delivered
+7200,5880,2024-06-24,Delhivery,Delivered
+7201,5600,2023-01-26,BlueDart,In Transit
+7202,5881,2023-10-23,FedEx,Delivered
+7203,5716,2024-02-28,BlueDart,In Transit
+7204,5094,2023-06-07,FedEx,Delayed
+7205,5651,2023-01-08,DHL,Delayed
+7206,5263,2024-04-26,FedEx,Delivered
+7207,5029,2023-01-29,Delhivery,In Transit
+7208,5333,2023-05-13,DHL,Delayed
+7209,5636,2023-07-10,BlueDart,Delivered
+7210,5974,2024-01-06,DHL,Delivered
+7211,5174,2024-09-17,BlueDart,Delayed
+7212,5600,2023-08-15,Delhivery,Delivered
+7213,5820,2023-12-10,DHL,Delivered
+7214,5758,2024-04-04,BlueDart,Delayed
+7215,5497,2023-02-25,DHL,In Transit
+7216,5026,2023-11-17,BlueDart,In Transit
+7217,5493,2024-07-25,BlueDart,In Transit
+7218,5369,2023-07-26,BlueDart,Delayed
+7219,5026,2024-05-17,Delhivery,In Transit
+7220,5770,2023-12-15,FedEx,In Transit
+7221,5930,2024-04-02,FedEx,Delivered
+7222,5272,2024-05-24,DHL,In Transit
+7223,5646,2024-06-09,Delhivery,Delivered
+7224,5646,2023-05-05,DHL,Delivered
+7225,5055,2024-01-19,FedEx,In Transit
+7226,5245,2023-08-25,FedEx,Delivered
+7227,5940,2024-05-11,BlueDart,In Transit
+7228,5674,2024-09-06,Delhivery,Delivered
+7229,5605,2023-01-09,DHL,In Transit
+7230,5132,2023-06-30,BlueDart,Delayed
+7231,5240,2024-02-27,DHL,Delivered
+7232,5870,2024-01-04,Delhivery,In Transit
+7233,5587,2023-02-22,Delhivery,Delayed
+7234,5538,2023-11-24,Delhivery,Delivered
+7235,5604,2024-09-23,BlueDart,In Transit
+7236,5535,2024-03-08,Delhivery,Delivered
+7237,5969,2023-09-20,FedEx,Delayed
+7238,5821,2024-04-08,DHL,In Transit
+7239,5678,2024-01-03,BlueDart,Delayed
+7240,5377,2024-03-14,FedEx,In Transit
+7241,5018,2023-09-03,BlueDart,Delivered
+7242,5193,2024-09-19,Delhivery,Delayed
+7243,5906,2023-12-22,Delhivery,Delivered
+7244,5529,2024-08-27,DHL,Delivered
+7245,5575,2024-01-09,FedEx,In Transit
+7246,5955,2023-09-23,Delhivery,In Transit
+7247,5129,2023-04-07,BlueDart,Delivered
+7248,5369,2024-01-05,BlueDart,Delayed
+7249,5899,2023-11-17,BlueDart,Delayed
+7250,5652,2024-04-12,BlueDart,Delivered
+7251,5196,2024-10-20,Delhivery,In Transit
+7252,5839,2024-01-16,DHL,In Transit
+7253,5790,2024-05-22,Delhivery,Delivered
+7254,5024,2024-05-07,BlueDart,In Transit
+7255,5238,2024-02-01,DHL,In Transit
+7256,5694,2024-03-03,Delhivery,In Transit
+7257,5274,2023-11-11,BlueDart,In Transit
+7258,5169,2023-06-10,Delhivery,In Transit
+7259,5244,2023-09-29,Delhivery,Delivered
+7260,5217,2023-11-04,FedEx,Delayed
+7261,5606,2023-02-23,FedEx,Delayed
+7262,5949,2024-03-16,FedEx,Delayed
+7263,5294,2023-02-04,FedEx,Delivered
+7264,5795,2024-10-09,DHL,Delayed
+7265,5511,2024-09-04,DHL,In Transit
+7266,5011,2024-09-12,Delhivery,Delayed
+7267,5116,2024-06-18,FedEx,Delivered
+7268,5124,2024-08-09,DHL,Delivered
+7269,5530,2023-10-05,DHL,Delayed
+7270,5904,2023-08-07,BlueDart,Delayed
+7271,6000,2024-09-24,FedEx,Delivered
+7272,5587,2024-05-21,DHL,Delayed
+7273,5355,2024-06-23,BlueDart,Delivered
+7274,5784,2023-08-22,Delhivery,In Transit
+7275,5899,2024-07-09,FedEx,Delayed
+7276,5702,2023-05-07,Delhivery,Delivered
+7277,5258,2024-04-20,Delhivery,Delayed
+7278,5773,2024-10-05,FedEx,In Transit
+7279,5871,2024-10-03,Delhivery,Delivered
+7280,5743,2023-01-17,BlueDart,Delivered
+7281,5990,2023-06-20,FedEx,In Transit
+7282,5663,2024-06-08,FedEx,Delivered
+7283,5234,2023-08-06,DHL,Delayed
+7284,5912,2024-09-30,DHL,Delivered
+7285,5419,2024-02-18,Delhivery,Delivered
+7286,5789,2024-09-16,BlueDart,In Transit
+7287,5601,2024-07-03,DHL,In Transit
+7288,5229,2024-01-14,Delhivery,Delayed
+7289,5628,2023-06-09,FedEx,Delivered
+7290,5954,2024-11-20,FedEx,In Transit
+7291,5186,2024-07-02,Delhivery,Delayed
+7292,5381,2023-01-21,FedEx,Delayed
+7293,5123,2024-05-06,FedEx,Delayed
+7294,5334,2023-10-08,DHL,Delayed
+7295,5330,2024-03-27,DHL,In Transit
+7296,5892,2023-01-09,FedEx,Delayed
+7297,5245,2024-07-30,DHL,Delayed
+7298,5903,2023-06-09,FedEx,Delivered
+7299,5675,2023-02-05,FedEx,Delivered
+7300,5544,2023-07-31,Delhivery,Delayed
+7301,5745,2024-04-18,Delhivery,In Transit
+7302,5284,2023-11-21,FedEx,Delayed
+7303,5847,2024-04-29,FedEx,In Transit
+7304,5348,2023-04-06,DHL,In Transit
+7305,5954,2023-05-14,DHL,In Transit
+7306,5319,2023-02-27,FedEx,Delayed
+7307,5066,2024-06-24,FedEx,Delivered
+7308,5080,2023-07-12,Delhivery,In Transit
+7309,5967,2024-01-24,FedEx,Delivered
+7310,5761,2024-04-16,DHL,In Transit
+7311,5620,2023-09-08,FedEx,Delayed
+7312,5730,2024-06-29,DHL,Delayed
+7313,5648,2023-09-08,DHL,Delayed
+7314,5313,2023-03-28,BlueDart,Delivered
+7315,5115,2024-02-18,BlueDart,In Transit
+7316,5451,2023-07-10,Delhivery,Delivered
+7317,5208,2023-05-07,FedEx,Delayed
+7318,5797,2024-11-11,DHL,Delayed
+7319,5963,2023-03-21,FedEx,In Transit
+7320,5186,2024-01-17,BlueDart,Delivered
+7321,5166,2023-05-08,Delhivery,Delivered
+7322,5209,2024-11-09,BlueDart,In Transit
+7323,5886,2023-04-24,DHL,Delayed
+7324,5589,2023-09-14,BlueDart,Delayed
+7325,5662,2024-06-11,BlueDart,Delayed
+7326,5533,2023-04-21,BlueDart,Delivered
+7327,5468,2023-09-05,BlueDart,Delayed
+7328,5772,2023-11-24,FedEx,In Transit
+7329,5584,2024-09-19,FedEx,Delivered
+7330,5836,2023-02-23,FedEx,Delayed
+7331,5737,2023-04-18,FedEx,In Transit
+7332,5105,2024-03-01,Delhivery,In Transit
+7333,5245,2023-12-23,DHL,Delayed
+7334,5192,2023-03-23,BlueDart,In Transit
+7335,5513,2023-08-13,FedEx,Delivered
+7336,5561,2023-10-04,DHL,Delayed
+7337,5340,2023-08-18,BlueDart,Delivered
+7338,5707,2023-10-30,FedEx,Delivered
+7339,5068,2023-11-26,BlueDart,Delayed
+7340,5926,2023-12-23,DHL,In Transit
+7341,5687,2023-05-13,BlueDart,In Transit
+7342,5971,2024-10-19,BlueDart,In Transit
+7343,5886,2023-10-29,DHL,In Transit
+7344,5680,2024-01-03,FedEx,Delivered
+7345,5939,2023-06-14,BlueDart,In Transit
+7346,5977,2024-07-25,Delhivery,Delayed
+7347,5357,2023-06-06,Delhivery,In Transit
+7348,5687,2024-07-14,FedEx,Delayed
+7349,5116,2023-12-11,BlueDart,In Transit
+7350,5697,2023-06-13,FedEx,Delayed
+7351,5560,2023-01-17,FedEx,In Transit
+7352,5166,2023-07-10,DHL,Delayed
+7353,5335,2023-04-10,BlueDart,Delivered
+7354,5670,2023-05-17,BlueDart,Delivered
+7355,5055,2023-08-21,DHL,Delivered
+7356,5809,2023-02-20,Delhivery,In Transit
+7357,5554,2023-01-14,BlueDart,Delayed
+7358,5834,2023-09-18,BlueDart,Delayed
+7359,5064,2024-04-22,DHL,In Transit
+7360,5083,2024-01-28,DHL,Delivered
+7361,5950,2023-04-13,DHL,Delayed
+7362,5013,2023-03-14,Delhivery,In Transit
+7363,5810,2024-10-09,BlueDart,Delivered
+7364,5571,2024-03-26,BlueDart,Delayed
+7365,5364,2024-08-17,BlueDart,Delivered
+7366,5049,2024-04-09,BlueDart,Delivered
+7367,5160,2023-09-09,BlueDart,Delivered
+7368,5377,2023-01-19,DHL,Delayed
+7369,5930,2023-02-06,DHL,In Transit
+7370,5801,2024-10-01,BlueDart,Delayed
+7371,5867,2024-04-29,FedEx,Delivered
+7372,5784,2024-01-20,BlueDart,Delayed
+7373,5045,2023-08-12,Delhivery,Delayed
+7374,5745,2023-07-18,FedEx,Delayed
+7375,5538,2024-02-02,BlueDart,In Transit
+7376,5865,2023-08-10,FedEx,Delivered
+7377,5069,2024-09-17,DHL,Delivered
+7378,5627,2023-03-30,BlueDart,In Transit
+7379,5797,2024-04-11,DHL,Delayed
+7380,5865,2023-07-29,BlueDart,In Transit
+7381,5201,2024-04-09,FedEx,Delivered
+7382,5756,2024-09-08,BlueDart,Delivered
+7383,5761,2023-05-24,DHL,Delivered
+7384,5446,2024-07-11,Delhivery,Delayed
+7385,5592,2023-11-17,FedEx,Delayed
+7386,5136,2024-01-23,DHL,In Transit
+7387,5546,2023-02-20,BlueDart,In Transit
+7388,5796,2023-06-29,Delhivery,Delivered
+7389,5102,2024-03-16,BlueDart,In Transit
+7390,5147,2024-10-09,DHL,Delivered
+7391,5843,2024-05-19,BlueDart,Delayed
+7392,5453,2023-02-07,DHL,In Transit
+7393,5546,2023-03-26,DHL,Delayed
+7394,5893,2023-12-16,FedEx,In Transit
+7395,5781,2024-01-08,FedEx,In Transit
+7396,5795,2023-01-23,BlueDart,Delivered
+7397,5291,2024-02-11,BlueDart,Delayed
+7398,5576,2024-03-15,BlueDart,Delayed
+7399,5607,2024-07-21,FedEx,In Transit
+7400,5885,2024-04-19,Delhivery,In Transit
+7401,5445,2024-03-03,BlueDart,Delayed
+7402,5160,2023-10-05,Delhivery,Delayed
+7403,5958,2024-03-12,FedEx,Delivered
+7404,5173,2024-06-29,BlueDart,Delayed
+7405,5932,2023-02-24,Delhivery,In Transit
+7406,5309,2023-10-30,DHL,Delivered
+7407,5088,2024-01-22,DHL,In Transit
+7408,5382,2024-06-01,FedEx,Delivered
+7409,5488,2023-04-09,BlueDart,Delivered
+7410,5037,2024-07-26,Delhivery,In Transit
+7411,5489,2023-06-18,Delhivery,Delayed
+7412,5094,2023-09-29,FedEx,Delayed
+7413,5298,2023-09-10,Delhivery,In Transit
+7414,5088,2023-08-13,DHL,In Transit
+7415,5152,2023-12-26,BlueDart,Delivered
+7416,5591,2023-09-29,Delhivery,Delayed
+7417,5381,2023-06-21,BlueDart,Delayed
+7418,5782,2024-04-30,Delhivery,Delayed
+7419,5968,2024-03-03,Delhivery,In Transit
+7420,5209,2024-09-19,FedEx,In Transit
+7421,5708,2023-11-06,DHL,In Transit
+7422,5987,2023-10-12,BlueDart,Delayed
+7423,5715,2024-10-15,Delhivery,In Transit
+7424,5584,2023-05-11,Delhivery,In Transit
+7425,5404,2023-05-09,DHL,Delivered
+7426,5771,2024-02-06,Delhivery,In Transit
+7427,5979,2024-02-29,DHL,In Transit
+7428,5942,2024-04-30,FedEx,Delayed
+7429,5647,2024-02-25,Delhivery,Delayed
+7430,5248,2024-04-21,FedEx,Delivered
+7431,5071,2023-03-31,Delhivery,In Transit
+7432,5159,2023-01-26,BlueDart,In Transit
+7433,5248,2023-07-19,Delhivery,In Transit
+7434,5074,2023-06-15,FedEx,In Transit
+7435,5699,2023-12-11,Delhivery,In Transit
+7436,5926,2023-03-09,DHL,Delivered
+7437,5725,2023-11-25,FedEx,Delayed
+7438,5137,2023-10-14,BlueDart,Delayed
+7439,5595,2023-04-26,DHL,Delayed
+7440,5013,2024-11-23,Delhivery,In Transit
+7441,5266,2023-10-01,DHL,In Transit
+7442,5250,2024-11-15,FedEx,In Transit
+7443,5259,2023-01-02,Delhivery,In Transit
+7444,5179,2023-11-04,BlueDart,In Transit
+7445,5318,2023-08-08,DHL,In Transit
+7446,5159,2024-04-18,DHL,Delivered
+7447,5664,2023-07-04,FedEx,Delivered
+7448,5024,2023-02-08,FedEx,Delayed
+7449,5501,2024-01-04,FedEx,Delayed
+7450,5118,2024-09-01,BlueDart,Delivered
+7451,5172,2023-09-02,BlueDart,In Transit
+7452,5899,2024-06-14,FedEx,In Transit
+7453,5696,2023-01-20,Delhivery,In Transit
+7454,5272,2023-02-13,Delhivery,Delivered
+7455,5783,2023-08-18,Delhivery,Delayed
+7456,5278,2023-06-04,Delhivery,Delayed
+7457,5426,2024-07-31,DHL,In Transit
+7458,5957,2023-12-17,Delhivery,Delayed
+7459,5428,2024-04-30,DHL,Delayed
+7460,5210,2023-07-21,Delhivery,Delivered
+7461,5305,2024-04-30,FedEx,Delivered
+7462,5765,2024-11-05,BlueDart,Delivered
+7463,5936,2023-04-04,Delhivery,In Transit
+7464,5993,2024-09-17,DHL,In Transit
+7465,5165,2024-01-24,DHL,Delivered
+7466,5432,2023-05-28,DHL,Delayed
+7467,5832,2023-02-18,FedEx,Delayed
+7468,5727,2023-01-21,FedEx,Delivered
+7469,5019,2023-09-10,FedEx,Delayed
+7470,5688,2024-05-06,FedEx,Delivered
+7471,5405,2023-01-05,FedEx,Delayed
+7472,5338,2023-05-23,FedEx,In Transit
+7473,5977,2023-11-30,FedEx,In Transit
+7474,5233,2023-03-16,DHL,Delayed
+7475,5839,2024-07-09,BlueDart,Delivered
+7476,5194,2024-11-15,DHL,Delivered
+7477,5813,2023-11-20,Delhivery,In Transit
+7478,5027,2023-03-18,Delhivery,Delivered
+7479,5768,2023-03-21,BlueDart,In Transit
+7480,5941,2024-11-21,BlueDart,Delivered
+7481,5774,2023-09-05,FedEx,Delayed
+7482,5286,2023-02-03,DHL,Delivered
+7483,5874,2023-06-24,DHL,Delayed
+7484,5019,2023-02-24,FedEx,In Transit
+7485,5219,2023-01-29,DHL,In Transit
+7486,5871,2023-04-28,FedEx,Delivered
+7487,5178,2024-06-09,BlueDart,In Transit
+7488,5299,2023-04-13,BlueDart,Delayed
+7489,5688,2024-11-05,Delhivery,Delivered
+7490,5965,2023-12-25,BlueDart,Delivered
+7491,5025,2023-05-11,DHL,Delayed
+7492,5982,2024-11-03,Delhivery,Delayed
+7493,5355,2024-08-14,DHL,Delayed
+7494,5437,2023-03-16,FedEx,Delayed
+7495,5493,2023-09-17,Delhivery,Delayed
+7496,5970,2023-03-21,Delhivery,In Transit
+7497,5989,2024-06-06,FedEx,Delivered
+7498,5136,2024-10-13,DHL,In Transit
+7499,5297,2024-03-27,DHL,Delayed
+7500,5984,2023-12-12,DHL,Delayed
+7501,5092,2024-11-26,FedEx,Delayed
+7502,5785,2024-09-16,BlueDart,In Transit
+7503,5360,2024-03-14,BlueDart,In Transit
+7504,5228,2024-02-20,FedEx,Delivered
+7505,5393,2023-02-01,BlueDart,Delayed
+7506,5523,2024-11-18,Delhivery,Delayed
+7507,5819,2024-01-19,Delhivery,Delivered
+7508,5283,2024-09-17,Delhivery,Delivered
+7509,5842,2023-09-25,BlueDart,Delayed
+7510,5718,2024-06-12,Delhivery,In Transit
+7511,5294,2023-03-20,DHL,Delivered
+7512,5701,2023-12-07,BlueDart,Delivered
+7513,5055,2023-08-01,BlueDart,Delivered
+7514,5860,2023-05-31,DHL,Delayed
+7515,5657,2023-09-29,BlueDart,In Transit
+7516,5336,2023-02-10,FedEx,In Transit
+7517,5871,2024-04-20,DHL,Delivered
+7518,5400,2024-08-28,FedEx,Delivered
+7519,5791,2024-05-05,FedEx,Delayed
+7520,5687,2023-09-01,DHL,Delayed
+7521,5109,2023-04-19,BlueDart,Delayed
+7522,5341,2023-06-10,Delhivery,Delivered
+7523,5914,2023-09-08,Delhivery,Delayed
+7524,5647,2024-02-03,DHL,Delivered
+7525,5825,2023-11-18,BlueDart,Delayed
+7526,5363,2023-02-20,BlueDart,Delivered
+7527,5386,2024-02-08,DHL,Delivered
+7528,5194,2024-05-08,DHL,Delivered
+7529,5461,2024-08-18,DHL,In Transit
+7530,5822,2024-05-13,DHL,Delayed
+7531,5518,2024-05-31,BlueDart,Delivered
+7532,5650,2023-10-30,FedEx,Delayed
+7533,5543,2024-09-08,Delhivery,Delayed
+7534,5197,2024-08-16,BlueDart,Delivered
+7535,5598,2023-04-14,FedEx,Delivered
+7536,5883,2024-08-03,DHL,Delivered
+7537,5775,2024-03-15,Delhivery,Delivered
+7538,5716,2024-11-10,Delhivery,Delayed
+7539,5639,2023-08-19,Delhivery,In Transit
+7540,5103,2024-02-21,DHL,Delayed
+7541,5277,2023-02-02,Delhivery,Delayed
+7542,5947,2024-06-01,BlueDart,Delayed
+7543,5487,2024-06-30,DHL,Delayed
+7544,5921,2024-07-17,Delhivery,In Transit
+7545,5764,2024-01-03,DHL,Delivered
+7546,5735,2023-12-04,Delhivery,In Transit
+7547,5297,2023-08-15,BlueDart,Delivered
+7548,5996,2024-02-11,FedEx,Delivered
+7549,5634,2023-04-25,FedEx,Delayed
+7550,5805,2023-12-08,Delhivery,Delivered
+7551,5344,2024-07-03,Delhivery,In Transit
+7552,5317,2023-03-01,DHL,Delayed
+7553,5804,2024-01-05,DHL,In Transit
+7554,5647,2023-03-18,BlueDart,Delivered
+7555,5985,2024-07-26,DHL,In Transit
+7556,5720,2023-12-29,DHL,In Transit
+7557,5965,2023-08-14,DHL,In Transit
+7558,5662,2023-04-18,DHL,Delivered
+7559,5882,2024-11-27,BlueDart,Delayed
+7560,5230,2023-05-04,FedEx,Delayed
+7561,5370,2023-01-15,FedEx,Delivered
+7562,5867,2024-01-30,DHL,Delayed
+7563,5570,2024-01-16,DHL,In Transit
+7564,5004,2024-05-19,Delhivery,In Transit
+7565,5841,2024-10-01,BlueDart,Delivered
+7566,5765,2023-05-14,Delhivery,Delivered
+7567,5190,2024-09-09,Delhivery,In Transit
+7568,5929,2024-03-29,BlueDart,Delayed
+7569,5422,2024-09-20,DHL,Delayed
+7570,5641,2023-04-10,DHL,In Transit
+7571,5660,2024-11-06,FedEx,In Transit
+7572,5563,2023-08-02,Delhivery,Delivered
+7573,5655,2024-11-20,Delhivery,Delayed
+7574,5724,2023-02-03,Delhivery,In Transit
+7575,5013,2024-06-25,FedEx,Delivered
+7576,5609,2024-03-11,BlueDart,Delayed
+7577,5968,2024-01-28,Delhivery,Delivered
+7578,5184,2024-05-06,Delhivery,Delayed
+7579,5717,2024-05-17,DHL,Delayed
+7580,5788,2023-02-21,Delhivery,In Transit
+7581,5796,2024-08-31,FedEx,In Transit
+7582,5302,2023-09-08,DHL,Delayed
+7583,5327,2023-12-31,BlueDart,In Transit
+7584,5285,2023-11-02,FedEx,Delayed
+7585,5775,2024-09-27,BlueDart,In Transit
+7586,5337,2023-04-07,DHL,In Transit
+7587,5447,2024-03-11,DHL,Delayed
+7588,5501,2024-07-27,Delhivery,Delayed
+7589,5316,2024-05-13,BlueDart,Delayed
+7590,5721,2023-01-14,Delhivery,Delivered
+7591,5519,2024-08-19,DHL,Delivered
+7592,5029,2023-11-08,FedEx,Delayed
+7593,5898,2023-09-08,BlueDart,In Transit
+7594,5671,2024-07-24,BlueDart,In Transit
+7595,5871,2024-06-21,BlueDart,Delivered
+7596,5712,2024-01-06,BlueDart,Delivered
+7597,5216,2023-02-27,FedEx,Delivered
+7598,5620,2023-04-09,FedEx,In Transit
+7599,5113,2024-09-09,FedEx,Delivered
+7600,5847,2024-02-18,DHL,Delivered
+7601,5329,2024-02-06,BlueDart,Delayed
+7602,5223,2023-01-19,DHL,Delivered
+7603,5764,2023-04-13,Delhivery,Delayed
+7604,5734,2024-06-22,Delhivery,Delayed
+7605,5406,2024-05-18,BlueDart,Delayed
+7606,5670,2024-07-04,DHL,Delivered
+7607,5119,2023-01-29,DHL,In Transit
+7608,5491,2023-09-13,FedEx,Delivered
+7609,5149,2023-12-26,BlueDart,Delayed
+7610,5711,2024-10-25,DHL,Delayed
+7611,5657,2023-10-19,Delhivery,Delivered
+7612,5608,2023-02-27,BlueDart,Delayed
+7613,5613,2024-07-03,BlueDart,Delayed
+7614,5510,2024-01-15,BlueDart,Delivered
+7615,5043,2023-11-30,FedEx,Delayed
+7616,5404,2024-08-28,Delhivery,Delivered
+7617,5827,2023-04-29,FedEx,Delayed
+7618,5237,2023-11-12,DHL,Delivered
+7619,5178,2023-09-10,DHL,Delayed
+7620,5965,2023-12-01,Delhivery,Delivered
+7621,5235,2024-03-04,DHL,Delayed
+7622,5926,2024-09-21,BlueDart,In Transit
+7623,5381,2024-10-28,BlueDart,In Transit
+7624,5850,2024-05-14,BlueDart,Delayed
+7625,5052,2023-05-23,BlueDart,In Transit
+7626,5729,2023-07-16,Delhivery,In Transit
+7627,5025,2023-03-27,FedEx,Delivered
+7628,5993,2023-03-04,FedEx,In Transit
+7629,5017,2023-06-30,DHL,Delivered
+7630,5257,2024-07-12,BlueDart,Delivered
+7631,5747,2024-03-29,FedEx,In Transit
+7632,5627,2023-05-17,DHL,In Transit
+7633,5018,2024-09-02,FedEx,Delivered
+7634,5896,2023-12-09,DHL,Delivered
+7635,5043,2023-11-04,Delhivery,In Transit
+7636,5059,2023-02-05,FedEx,Delivered
+7637,5288,2023-05-20,BlueDart,Delivered
+7638,5858,2023-07-08,FedEx,In Transit
+7639,5760,2024-09-09,DHL,In Transit
+7640,5161,2024-02-28,DHL,Delivered
+7641,5751,2024-11-02,BlueDart,Delayed
+7642,5887,2024-01-25,DHL,Delayed
+7643,5032,2023-01-25,BlueDart,Delivered
+7644,5610,2024-07-08,DHL,In Transit
+7645,5232,2024-08-31,BlueDart,Delayed
+7646,5713,2023-11-08,DHL,Delayed
+7647,5671,2024-04-30,Delhivery,Delayed
+7648,5045,2023-11-14,DHL,In Transit
+7649,5705,2023-01-24,BlueDart,Delayed
+7650,5698,2023-03-04,FedEx,Delayed
+7651,5784,2024-08-15,BlueDart,In Transit
+7652,5220,2024-05-21,BlueDart,Delivered
+7653,5905,2024-02-18,DHL,Delivered
+7654,5413,2023-03-21,Delhivery,In Transit
+7655,5095,2023-09-11,DHL,Delivered
+7656,5390,2024-08-29,DHL,Delayed
+7657,5938,2023-05-16,BlueDart,Delayed
+7658,5793,2024-05-23,FedEx,Delayed
+7659,5102,2023-04-01,FedEx,In Transit
+7660,5257,2024-09-17,FedEx,Delivered
+7661,5782,2023-11-30,DHL,Delivered
+7662,5808,2023-06-16,DHL,Delayed
+7663,5281,2023-03-30,FedEx,In Transit
+7664,5947,2023-02-19,DHL,In Transit
+7665,5523,2023-06-01,DHL,In Transit
+7666,5429,2023-11-25,Delhivery,In Transit
+7667,5526,2024-01-06,FedEx,Delivered
+7668,5685,2024-05-20,DHL,Delayed
+7669,5381,2024-01-05,BlueDart,Delayed
+7670,5277,2023-04-04,BlueDart,In Transit
+7671,5300,2024-09-05,Delhivery,Delayed
+7672,5425,2024-09-02,FedEx,Delayed
+7673,5670,2024-03-04,DHL,In Transit
+7674,5253,2023-02-04,Delhivery,In Transit
+7675,5293,2024-10-13,DHL,Delivered
+7676,5419,2023-01-30,BlueDart,Delayed
+7677,5354,2024-11-21,DHL,Delayed
+7678,5061,2024-09-01,DHL,In Transit
+7679,5425,2024-03-20,FedEx,Delayed
+7680,5794,2023-08-17,Delhivery,Delayed
+7681,5495,2024-06-12,DHL,In Transit
+7682,5563,2023-04-23,Delhivery,Delivered
+7683,5348,2023-01-27,Delhivery,In Transit
+7684,5330,2023-08-13,DHL,Delayed
+7685,5143,2024-05-31,BlueDart,In Transit
+7686,5284,2023-03-26,BlueDart,In Transit
+7687,5785,2024-02-07,Delhivery,In Transit
+7688,5837,2024-05-28,BlueDart,Delivered
+7689,5419,2024-08-05,Delhivery,Delayed
+7690,5137,2024-01-19,BlueDart,In Transit
+7691,5861,2024-01-28,Delhivery,In Transit
+7692,5289,2024-05-30,Delhivery,Delayed
+7693,5090,2023-05-04,FedEx,Delivered
+7694,5759,2023-10-01,FedEx,In Transit
+7695,5371,2024-02-25,FedEx,Delayed
+7696,5301,2023-10-28,BlueDart,In Transit
+7697,5004,2023-11-24,FedEx,Delivered
+7698,5415,2023-10-01,DHL,Delayed
+7699,5115,2024-10-17,FedEx,In Transit
+7700,5271,2023-05-25,Delhivery,In Transit
+7701,5884,2024-01-11,BlueDart,Delayed
+7702,5914,2024-05-31,DHL,Delivered
+7703,5050,2023-06-26,BlueDart,Delayed
+7704,5895,2023-06-07,DHL,In Transit
+7705,5254,2023-01-13,Delhivery,Delayed
+7706,5657,2023-06-05,FedEx,Delivered
+7707,5581,2023-10-22,FedEx,Delayed
+7708,5070,2023-06-15,FedEx,Delayed
+7709,5274,2023-10-05,FedEx,In Transit
+7710,5204,2023-07-01,BlueDart,Delayed
+7711,5162,2024-03-03,BlueDart,Delivered
+7712,5828,2023-08-05,FedEx,Delayed
+7713,5581,2024-04-16,BlueDart,Delayed
+7714,5135,2023-11-07,BlueDart,Delivered
+7715,5645,2023-12-10,Delhivery,Delayed
+7716,5221,2023-09-29,FedEx,In Transit
+7717,5712,2024-08-08,Delhivery,In Transit
+7718,5855,2024-06-28,FedEx,Delayed
+7719,5029,2023-06-03,FedEx,Delayed
+7720,5556,2024-01-14,BlueDart,Delayed
+7721,5146,2023-04-03,DHL,Delayed
+7722,5100,2024-11-08,Delhivery,In Transit
+7723,5064,2024-01-28,DHL,Delayed
+7724,5588,2023-01-14,FedEx,Delayed
+7725,5035,2023-08-16,Delhivery,In Transit
+7726,5564,2023-01-16,BlueDart,Delivered
+7727,5764,2023-05-20,Delhivery,Delayed
+7728,5644,2024-07-04,Delhivery,In Transit
+7729,5873,2024-03-17,Delhivery,Delayed
+7730,5212,2024-03-17,DHL,In Transit
+7731,5713,2024-06-12,BlueDart,Delivered
+7732,5318,2024-04-19,BlueDart,Delayed
+7733,5613,2023-12-11,FedEx,In Transit
+7734,5198,2023-12-05,Delhivery,Delayed
+7735,5182,2023-09-16,DHL,Delayed
+7736,5881,2023-08-20,FedEx,Delivered
+7737,5188,2024-01-21,BlueDart,In Transit
+7738,5618,2023-05-22,Delhivery,Delivered
+7739,5884,2023-12-28,Delhivery,Delayed
+7740,5048,2024-07-22,FedEx,Delayed
+7741,5080,2024-08-20,FedEx,Delivered
+7742,5112,2024-01-12,Delhivery,In Transit
+7743,5326,2024-02-11,BlueDart,Delivered
+7744,5961,2024-04-01,DHL,Delayed
+7745,5957,2024-04-22,DHL,Delayed
+7746,5505,2023-04-08,Delhivery,Delivered
+7747,5521,2024-03-03,BlueDart,Delayed
+7748,5219,2024-02-15,FedEx,Delivered
+7749,5493,2023-11-20,FedEx,Delayed
+7750,5334,2023-10-06,DHL,Delayed
+7751,5255,2024-07-15,FedEx,In Transit
+7752,5701,2024-01-04,Delhivery,Delayed
+7753,5171,2023-09-15,FedEx,Delivered
+7754,5383,2024-05-23,FedEx,Delivered
+7755,5654,2023-06-14,DHL,In Transit
+7756,5645,2023-01-08,DHL,In Transit
+7757,5197,2024-11-16,BlueDart,Delivered
+7758,5798,2024-09-07,Delhivery,In Transit
+7759,5811,2023-03-19,BlueDart,Delayed
+7760,5988,2023-08-26,Delhivery,Delayed
+7761,5435,2023-10-03,BlueDart,Delivered
+7762,5270,2024-05-13,BlueDart,Delayed
+7763,5745,2023-10-12,DHL,Delivered
+7764,5294,2023-08-15,BlueDart,In Transit
+7765,5328,2024-04-08,FedEx,In Transit
+7766,5541,2024-06-09,Delhivery,Delayed
+7767,5525,2023-07-15,FedEx,Delivered
+7768,5503,2023-09-01,DHL,Delivered
+7769,5183,2023-01-26,DHL,Delayed
+7770,5347,2024-01-01,BlueDart,In Transit
+7771,5672,2024-02-06,Delhivery,Delayed
+7772,5715,2024-05-11,DHL,In Transit
+7773,5300,2023-06-14,FedEx,In Transit
+7774,5019,2024-05-29,FedEx,Delivered
+7775,5160,2024-09-13,BlueDart,In Transit
+7776,5577,2024-01-11,DHL,In Transit
+7777,5482,2023-05-05,DHL,In Transit
+7778,5877,2023-05-21,DHL,Delayed
+7779,5222,2023-05-18,DHL,In Transit
+7780,5589,2023-01-27,DHL,In Transit
+7781,5849,2024-04-29,Delhivery,Delayed
+7782,5621,2024-04-12,FedEx,In Transit
+7783,5794,2024-05-01,DHL,Delivered
+7784,5691,2023-06-04,Delhivery,Delayed
+7785,5158,2023-02-20,FedEx,Delayed
+7786,5585,2023-05-16,Delhivery,Delivered
+7787,5983,2023-03-22,FedEx,Delayed
+7788,5080,2024-03-18,Delhivery,Delivered
+7789,5804,2024-10-25,DHL,Delivered
+7790,5618,2023-04-18,DHL,In Transit
+7791,5933,2023-02-22,BlueDart,Delivered
+7792,5818,2024-02-04,Delhivery,Delayed
+7793,5761,2023-06-17,DHL,In Transit
+7794,5930,2023-03-04,FedEx,Delivered
+7795,5299,2023-10-29,Delhivery,Delayed
+7796,5046,2023-01-13,FedEx,Delayed
+7797,5538,2023-12-25,FedEx,Delivered
+7798,5437,2024-01-21,BlueDart,In Transit
+7799,5166,2023-12-01,BlueDart,Delivered
+7800,5854,2023-05-15,BlueDart,Delayed
+7801,5999,2023-05-23,Delhivery,Delivered
+7802,5197,2024-11-16,Delhivery,Delivered
+7803,5593,2023-09-15,Delhivery,Delivered
+7804,5712,2024-11-30,BlueDart,Delayed
+7805,5145,2024-08-14,Delhivery,Delivered
+7806,5903,2024-02-03,Delhivery,Delayed
+7807,5821,2023-05-16,FedEx,Delivered
+7808,5964,2023-12-31,BlueDart,Delayed
+7809,5229,2024-03-16,Delhivery,Delivered
+7810,5353,2023-03-30,BlueDart,Delivered
+7811,5208,2024-05-27,BlueDart,Delayed
+7812,5028,2023-03-01,Delhivery,Delivered
+7813,5788,2023-04-03,BlueDart,Delivered
+7814,5324,2023-11-22,DHL,In Transit
+7815,5285,2024-09-07,BlueDart,Delayed
+7816,5302,2024-09-30,BlueDart,In Transit
+7817,5254,2024-08-14,DHL,In Transit
+7818,5888,2024-02-01,Delhivery,Delivered
+7819,5322,2023-08-25,DHL,In Transit
+7820,5389,2024-06-09,Delhivery,Delayed
+7821,5456,2024-01-03,Delhivery,Delayed
+7822,5200,2024-11-14,DHL,In Transit
+7823,5108,2023-01-15,Delhivery,Delivered
+7824,5550,2024-10-29,DHL,Delivered
+7825,5094,2024-04-18,DHL,Delivered
+7826,5613,2024-08-19,Delhivery,Delivered
+7827,5530,2024-03-12,DHL,In Transit
+7828,5382,2023-08-18,BlueDart,Delivered
+7829,5808,2024-10-13,Delhivery,In Transit
+7830,5546,2023-12-08,Delhivery,In Transit
+7831,5550,2023-02-19,FedEx,In Transit
+7832,5587,2024-06-09,DHL,Delivered
+7833,5264,2023-02-07,Delhivery,Delayed
+7834,5323,2024-06-25,DHL,Delayed
+7835,5378,2023-03-06,BlueDart,In Transit
+7836,5754,2024-05-10,BlueDart,Delayed
+7837,5767,2024-09-09,FedEx,In Transit
+7838,5312,2024-06-15,FedEx,In Transit
+7839,5131,2023-01-05,BlueDart,Delivered
+7840,5754,2023-08-08,Delhivery,In Transit
+7841,5919,2023-02-03,BlueDart,In Transit
+7842,5324,2023-09-15,FedEx,Delivered
+7843,5455,2023-08-17,FedEx,Delayed
+7844,5117,2023-05-15,BlueDart,Delivered
+7845,5064,2023-04-30,FedEx,Delivered
+7846,5832,2024-06-01,Delhivery,Delayed
+7847,5037,2024-02-09,FedEx,Delivered
+7848,5886,2023-02-02,FedEx,In Transit
+7849,5823,2024-09-03,BlueDart,Delayed
+7850,5627,2024-09-24,Delhivery,Delayed
+7851,5504,2023-07-10,DHL,Delayed
+7852,5527,2024-01-24,FedEx,Delivered
+7853,5118,2023-12-06,DHL,Delivered
+7854,5203,2024-07-23,FedEx,Delivered
+7855,5268,2024-01-22,DHL,In Transit
+7856,5780,2023-03-26,FedEx,In Transit
+7857,5139,2024-01-06,DHL,Delayed
+7858,5408,2024-01-19,Delhivery,Delivered
+7859,5147,2024-04-14,Delhivery,Delayed
+7860,5244,2023-08-15,FedEx,In Transit
+7861,5737,2023-01-26,FedEx,Delivered
+7862,5908,2023-08-21,Delhivery,Delivered
+7863,5352,2023-04-25,Delhivery,In Transit
+7864,5943,2023-02-23,Delhivery,In Transit
+7865,5698,2023-04-05,DHL,Delivered
+7866,5611,2023-04-29,FedEx,Delayed
+7867,5557,2024-07-30,BlueDart,Delayed
+7868,5603,2023-10-23,Delhivery,Delayed
+7869,5981,2024-10-30,BlueDart,Delivered
+7870,5359,2024-04-22,DHL,In Transit
+7871,5767,2024-09-14,Delhivery,In Transit
+7872,5198,2023-09-24,FedEx,Delayed
+7873,5307,2024-09-28,FedEx,In Transit
+7874,5185,2024-11-16,Delhivery,Delivered
+7875,5686,2023-01-17,DHL,Delayed
+7876,5022,2023-04-03,BlueDart,In Transit
+7877,5464,2024-08-19,DHL,In Transit
+7878,5852,2023-04-04,FedEx,Delivered
+7879,5911,2023-11-27,DHL,In Transit
+7880,5337,2023-04-11,DHL,Delivered
+7881,5699,2024-05-30,DHL,Delayed
+7882,5470,2023-10-25,DHL,Delivered
+7883,5371,2024-06-15,Delhivery,Delayed
+7884,5962,2023-08-21,FedEx,In Transit
+7885,5937,2023-09-05,Delhivery,In Transit
+7886,5546,2024-03-22,DHL,Delivered
+7887,5985,2023-05-28,BlueDart,Delivered
+7888,5311,2024-06-04,BlueDart,In Transit
+7889,5438,2024-11-01,Delhivery,In Transit
+7890,5566,2024-08-22,FedEx,Delivered
+7891,5060,2023-07-05,DHL,Delivered
+7892,5427,2024-07-02,Delhivery,Delayed
+7893,5691,2023-12-26,DHL,Delayed
+7894,5418,2024-07-29,DHL,In Transit
+7895,5803,2024-10-20,DHL,Delivered
+7896,5226,2024-06-17,DHL,Delivered
+7897,5357,2023-05-24,BlueDart,Delivered
+7898,5365,2024-03-01,BlueDart,In Transit
+7899,5278,2023-03-02,BlueDart,In Transit
+7900,5396,2024-03-14,FedEx,Delayed
+7901,5629,2024-03-12,FedEx,Delivered
+7902,5062,2024-01-14,BlueDart,In Transit
+7903,5028,2023-03-18,FedEx,In Transit
+7904,5224,2024-02-27,Delhivery,In Transit
+7905,5194,2023-01-19,Delhivery,Delivered
+7906,5423,2024-01-25,Delhivery,Delivered
+7907,5750,2024-06-28,Delhivery,Delivered
+7908,5852,2024-05-14,DHL,Delayed
+7909,5531,2023-08-17,Delhivery,Delayed
+7910,5820,2023-02-15,BlueDart,Delayed
+7911,5392,2023-01-30,BlueDart,Delayed
+7912,5323,2024-03-05,Delhivery,In Transit
+7913,5732,2024-10-02,DHL,Delayed
+7914,5963,2023-03-29,FedEx,In Transit
+7915,5011,2024-07-16,FedEx,Delivered
+7916,5803,2024-01-17,BlueDart,Delayed
+7917,5058,2024-02-23,FedEx,In Transit
+7918,5995,2023-11-01,FedEx,Delivered
+7919,5350,2023-03-22,Delhivery,In Transit
+7920,5888,2024-01-21,FedEx,In Transit
+7921,5119,2023-02-09,BlueDart,Delayed
+7922,5972,2023-12-30,DHL,Delivered
+7923,5682,2023-04-15,FedEx,Delivered
+7924,5780,2024-11-18,Delhivery,Delayed
+7925,5639,2023-03-04,FedEx,Delivered
+7926,5639,2024-09-05,Delhivery,Delivered
+7927,5319,2023-11-25,DHL,Delivered
+7928,5089,2024-10-26,BlueDart,Delayed
+7929,5409,2024-01-01,Delhivery,Delivered
+7930,5265,2023-05-01,DHL,In Transit
+7931,5383,2024-07-22,Delhivery,Delayed
+7932,5399,2024-01-02,Delhivery,Delivered
+7933,5321,2023-07-08,BlueDart,In Transit
+7934,5558,2023-05-01,FedEx,In Transit
+7935,5044,2023-03-15,Delhivery,Delayed
+7936,5845,2023-05-25,DHL,In Transit
+7937,5329,2023-11-17,BlueDart,Delayed
+7938,5221,2024-08-24,Delhivery,In Transit
+7939,5753,2024-09-14,DHL,In Transit
+7940,5548,2023-04-11,DHL,In Transit
+7941,5105,2023-05-18,BlueDart,In Transit
+7942,5684,2024-02-22,FedEx,Delayed
+7943,5580,2023-07-19,FedEx,Delayed
+7944,5311,2024-08-18,FedEx,Delayed
+7945,5478,2023-10-17,DHL,In Transit
+7946,5423,2023-06-16,DHL,In Transit
+7947,5189,2024-10-11,Delhivery,In Transit
+7948,5470,2023-11-27,Delhivery,In Transit
+7949,5569,2023-01-07,DHL,Delivered
+7950,5440,2023-08-09,FedEx,In Transit
+7951,5484,2023-07-07,FedEx,In Transit
+7952,5550,2024-07-20,Delhivery,Delivered
+7953,5480,2024-07-04,FedEx,Delayed
+7954,5589,2024-07-13,DHL,Delivered
+7955,5964,2024-04-11,Delhivery,In Transit
+7956,5497,2024-08-30,DHL,In Transit
+7957,5025,2023-04-26,FedEx,In Transit
+7958,5844,2024-06-27,FedEx,In Transit
+7959,5769,2023-03-12,FedEx,Delivered
+7960,5625,2024-11-26,BlueDart,In Transit
+7961,5151,2024-03-10,BlueDart,Delayed
+7962,5328,2024-06-25,FedEx,Delivered
+7963,5629,2024-08-25,FedEx,Delivered
+7964,5358,2024-10-11,FedEx,Delayed
+7965,5615,2023-09-26,Delhivery,Delivered
+7966,5638,2024-09-03,Delhivery,Delivered
+7967,5136,2023-12-11,Delhivery,In Transit
+7968,5779,2023-08-03,DHL,Delayed
+7969,5775,2023-09-26,BlueDart,In Transit
+7970,5145,2023-02-04,DHL,In Transit
+7971,5617,2024-02-25,DHL,In Transit
+7972,5750,2024-11-04,Delhivery,Delivered
+7973,5873,2024-07-01,BlueDart,In Transit
+7974,5139,2024-09-18,DHL,Delayed
+7975,5062,2023-12-19,FedEx,Delivered
+7976,5860,2024-10-26,DHL,Delivered
+7977,5697,2024-10-19,FedEx,Delayed
+7978,5763,2023-02-21,BlueDart,In Transit
+7979,5246,2024-02-19,DHL,Delivered
+7980,5618,2024-09-18,FedEx,Delayed
+7981,5951,2024-04-03,Delhivery,In Transit
+7982,5860,2024-08-16,FedEx,Delivered
+7983,5778,2023-12-16,Delhivery,In Transit
+7984,5214,2024-10-15,BlueDart,Delivered
+7985,5988,2024-02-01,FedEx,Delivered
+7986,5064,2024-03-01,FedEx,Delayed
+7987,5667,2023-03-08,DHL,In Transit
+7988,5932,2023-07-08,DHL,Delayed
+7989,5164,2024-07-11,FedEx,In Transit
+7990,5085,2023-04-15,FedEx,In Transit
+7991,5222,2023-05-25,BlueDart,Delayed
+7992,5558,2023-05-18,FedEx,Delayed
+7993,5551,2024-10-22,DHL,Delivered
+7994,5283,2024-06-10,FedEx,In Transit
+7995,5649,2023-08-25,DHL,Delivered
+7996,5766,2023-05-04,BlueDart,In Transit
+7997,5975,2024-07-01,FedEx,In Transit
+7998,5833,2023-11-01,FedEx,In Transit
+7999,5293,2023-10-14,BlueDart,In Transit
+8000,5261,2023-03-17,DHL,Delivered

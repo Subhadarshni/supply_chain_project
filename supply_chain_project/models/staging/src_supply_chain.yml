@@ -1,0 +1,14 @@
+
+version: 2
+
+sources:
+  - name: supply_chain_src
+    database: ECOMMERCE_DB
+    schema: RAW
+
+    tables:
+      - name: orders
+      - name: products
+      - name: inventory
+      - name: shipments
+      - name: returns
