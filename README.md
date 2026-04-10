@@ -38,7 +38,7 @@ dbt_ecommerce_project/
 │   │
 │   └── generate_data.py                  # Python script to generate data
 │
-├── 📁 dbt_project/                       # Main dbt project
+├── 📁 supply_chain_project/                       # Main dbt project
 │   │
 │   ├── 📁 models/
 │   │   │
